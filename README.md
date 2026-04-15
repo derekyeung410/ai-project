@@ -9,6 +9,7 @@ A dockerized AI Python project of RAG chatbot. User can upload desired documents
 - `Open Router API`
 - `ChromaDB`
 - `LangChain`
+- `Pypdf`
 - `OpenAI`
 - `Streamlit`
 
