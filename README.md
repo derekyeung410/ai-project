@@ -13,7 +13,7 @@ A dockerized AI Python project of RAG chatbot. User can upload desired pdf docum
 - `OpenAI`
 - `Streamlit`
 
-## ✏️ Installation
+## ✏️ Installation & Preperation
 
 1. Clone or download this repository
 
