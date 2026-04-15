@@ -1,2 +1,2 @@
-# ai-project
-RAG AI chatbot 🤖
+# RAG AI chatbot 🤖
+
