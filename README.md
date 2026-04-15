@@ -10,6 +10,7 @@ A dockerized AI Python project of RAG chatbot. User can upload desired documents
 - `ChromaDB`
 - `LangChain`
 - `OpenAI`
+- `Streamlit`
 
 ## ✏️ Installation
 
