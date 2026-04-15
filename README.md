@@ -1,4 +1,4 @@
-# RAG AI chatbot 🤖
+# RAG AI Chatbot 🤖
 
 A dockerized AI Python project of RAG chatbot. User can upload desired pdf documents on UI as the reference for the chatbot for answering questions. 
 
