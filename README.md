@@ -2,7 +2,7 @@
 
 A dockerized AI Python project of RAG chatbot. User can upload desired documents on UI as the reference for the chatbot for answering questions. 
 
-## Technologies
+## 🧠 Technologies
 
 - `Python`
 - `Docker`
@@ -11,7 +11,7 @@ A dockerized AI Python project of RAG chatbot. User can upload desired documents
 - `LangChain`
 - `OpenAI`
 
-## Installation
+## ✏️ Installation
 
 1. Clone or download this repository
 
